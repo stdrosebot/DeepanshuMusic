@@ -1,7 +1,7 @@
 <p align="center">
     <br><b>🥺 Ɗᴇᴇᴘᴀɴꜱʜᴜ ᴍᴜsɪᴄ 😫</b><br>
 </p>
-<p align="center"><a href="https://t.me/DEEPANSHU_KI_DUNIYA"><img src="https://telegra.ph/file/89cbc8b8760b6abff430f.jpg"></a></p>
+<p align="center"><a href="https://t.me/DEEPANSHU_KI_DUNIYA"><img src="https://telegra.ph/file/ba0b5839a392a7b56c189.jpg"></a></p>
 
 Deepanshu Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
