@@ -1,7 +1,7 @@
 <p align="center">
     <br><b>🥺 Ɗᴇᴇᴘᴀɴꜱʜᴜ ᴍᴜsɪᴄ 😫</b><br>
 </p>
-<p align="center"><a href="https://t.me/DEEPANSHU_KI_DUNIYA"><img src="https://telegra.ph/file/ba0b5839a392a7b56c189.jpg"></a></p>
+<p align="center"><a href="https://t.me/Tricky_Deepanshu"><img src="https://telegra.ph/file/ba0b5839a392a7b56c189.jpg"></a></p>
 
 Deepanshu Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
@@ -91,7 +91,7 @@ python3 main.py # Run the bot
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ### Support & Developer 🎑
-<a href="https://t.me/DEEPANSHU_KI_DUNIYA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Tricky_Deepanshu"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://telegram.me/STD-DEEPANSHU"><img src="https://img.shields.io/badge/%20Developer-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ------------------------------------------------
