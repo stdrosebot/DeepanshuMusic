@@ -1,5 +1,5 @@
 <p align="center">
-    <br><b>🥺 Ɗᴇᴇᴘᴀɴꜱʜᴜ ᴍᴜsɪᴄ 😫</b><br>
+    <br><b>🥺 Ɗᴇᴇᴘᴀɴꜱʜᴜ ᴍᴜsɪᴄ 😅</b><br>
 </p>
 <p align="center"><a href="https://t.me/Tricky_Deepanshu"><img src="https://telegra.ph/file/ba0b5839a392a7b56c189.jpg"></a></p>
 
